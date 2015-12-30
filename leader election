@@ -1,0 +1,6 @@
+leader election算法非常多，
+比如
+Zookeper的 Zab , 
+redis的    Raft 
+Viewstamped Replication 。
+而Kafka所使用的leader election算法更像微软的 PacificA 算法。
